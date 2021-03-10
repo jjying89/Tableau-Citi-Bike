@@ -1,6 +1,6 @@
 # tableau-citibike-analysis
 
-The Citibike analysis story board can be viewed [here](https://public.tableau.com/profile/justin.ying#!/vizhome/NYCCitiBikeStory_16131256782870/NYCCitiBikeStory?publish=yes).
+The Citi Bike analysis story board can be viewed [here](https://public.tableau.com/profile/justin.ying#!/vizhome/NYCCitiBikeStory_16131256782870/NYCCitiBikeStory?publish=yes).
 
 ## Data
 
