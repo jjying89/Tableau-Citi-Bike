@@ -1,6 +1,6 @@
 # tableau-citibike-analysis
 
-The Citibike analysis dashboard can be viewed [here](https://public.tableau.com/profile/justin.ying#!/vizhome/NYCCitiBikeStory_16131256782870/NYCCitiBikeStory?publish=yes).
+The Citibike analysis story board can be viewed [here](https://public.tableau.com/profile/justin.ying#!/vizhome/NYCCitiBikeStory_16131256782870/NYCCitiBikeStory?publish=yes).
 
 ## Data
 
@@ -10,7 +10,7 @@ Pulled from https://www.citibikenyc.com/system-data through a 3 month period fro
 
 Built with Tableau Public.
 
-## Trends observed over the 3 month period.
+## Trends observed over the 3 month period
 
 The most popular day for bike usage is on Tuesdays.
 
